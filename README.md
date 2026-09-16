@@ -1,3 +1,4 @@
+<img width="1479" height="511" alt="Kidney_Stone_Training_Image2" src="https://github.com/user-attachments/assets/f71e8ea1-4edf-4c51-b58e-70cdc4c4102d" />
 # Kidney_Tumour_Semantic_Segmentation_Using_UNet Model and SAM Model
 In this project, Kidney Tumour Semantic Segmentation was performed using UNet architecture. (Encoder-Decoder Network).
 Encoder compresses the image to make a latent space representation and Decoder expands the image back.
@@ -16,6 +17,15 @@ kidney cancer patients who underwent partial or radical nephrectomy at our insti
 for model training and validation, and the remaining 90 will be held out for objective model evaluation.
 
 # Results
-<img width="1479" height="511" alt="Kidney_Stones_Training_Image" src="https://github.com/user-attachments/assets/c45e91fd-03db-4a88-8d46-d78234f7d044" />
+<img width="1479" height="511" alt="Kidney_Stone_Training_Image1" src="https://github.com/user-attachments/assets/11c0d5ea-ed83-4173-bab6-db1ec37ebf1a" />
+<img width="1479" height="511" alt="Kidney_Stone_Training_Image2" src="https://github.com/user-attachments/assets/529b7f9d-98b3-4fc7-9348-8a6f9a01de19" />
+<img width="1479" height="511" alt="Kidney_Stone_Training_Image3" src="https://github.com/user-attachments/assets/e4ea81b8-d6cc-49a9-af92-61080fcb2ed8" />
+<img width="1479" height="511" alt="Kidney_Stone_Training_Image4" src="https://github.com/user-attachments/assets/ccad4359-e222-464a-a0c0-ce36e8fd29c3" />
+<img width="1479" height="511" alt="Kindey_Stone_Training_Imge5" src="https://github.com/user-attachments/assets/6ce63220-413a-437b-ae4e-9c5e87b0f185" />
+
+
+
+
+
 
 # Future Work
