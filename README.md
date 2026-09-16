@@ -1,6 +1,6 @@
 
 # Kidney_Tumour_Semantic_Segmentation_Using_UNet Model and SAM Model
-<img width="800" height="879" alt="9409-kidney-cancer" src="https://github.com/user-attachments/assets/0d97b817-e36a-4756-bfdb-ef85b5014c5c" />
+<img width="200" height="200" alt="9409-kidney-cancer" src="https://github.com/user-attachments/assets/0d97b817-e36a-4756-bfdb-ef85b5014c5c" />
 
 A kidney tumour is an abnormal mass of cells on your kidney that can be noncancerous or cancerous.
 **Common Symptoms:**
